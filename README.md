@@ -1,5 +1,5 @@
 # NBA-young-player-investment-analysis
-"SQL analysis identifying high-value young NBA players for front office decision making"
+SQL analysis identifying high-value young NBA players for front office decision making
 
 1. Project Overview
 The purpose of this project is to aid NBA executives such as coaches, General Managers,and team owners in situations when they are deciding whether to invest in young players.
