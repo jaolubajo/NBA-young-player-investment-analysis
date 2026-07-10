@@ -39,6 +39,6 @@ PowerBI
 ## 7. File Structure
     -'top10_young_scorers_post2020.sql' — Top 10 scoring players aged 25 and under post 2020
     -'top10_young_playmakers_post2020.sql' — Top 10 assist leaders aged 25 and under post 2020
-    -'top10_pts_trb_by_position_post2020.sql' - Top 10 scoring and total rebounders aged 25 and under post 2020
+    -'top_young_pts_trb_by_position_post2020.sql' - Top 10 scoring and total rebounders aged 25 and under post 2020
     -'top10_young_wellrounded_post2020.sql' - Top 10 scoring and assist leaders aged 25 and under post 2020
     -'top_scorer_by_position_post2020.sql` - Top scoring leaders by position aged 25 and under post 2020
