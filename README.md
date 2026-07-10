@@ -5,10 +5,10 @@ SQL analysis identifying high-value young NBA players for front office decision 
 ![Dashboard Preview](dashboard_preview.png)
 
 ## 2. Project Overview
-The purpose of this project is to aid NBA executives such as coaches, General Managers,and team owners in situations when they are deciding whether to invest in young players.
+The purpose of this project is to aid NBA executives such as coaches, General Managers, and team owners in situations when they are deciding whether to invest in young players.
 
 ## 3. Business Problem
-When it is time for franchises to choose young players to invest in it is often involving highly valuable assests such as millions of dollars or draft picks. This project analyzes stats such as points, assists, rebounds and availability based on games played to help front offices identify production habits or injury risks when deciding the needs regarding their next young athlete.
+When it is time for franchises to choose young players to invest in it is often involving highly valuable assets such as millions of dollars or draft picks. This project analyzes stats such as points, assists, rebounds and availability based on games played to help front offices identify production habits or injury risks when deciding the needs regarding their next young athlete.
 
 ## 4. Objectives
 Scoring Analysis- The first query showcases the top 10 scorers in the NBA aged 25 and under after the year 2020.
@@ -35,7 +35,7 @@ Another standout would be Nikola Jokic based on the data set he seems to be one 
 SQLite / DB Browser
 SQL
 Github
-
+PowerBI
 ## 7. File Structure
     -'top10_young_scorers_post2020.sql' — Top 10 scoring players aged 25 and under post 2020
     -'top10_young_playmakers_post2020.sql' — Top 10 assist leaders aged 25 and under post 2020
