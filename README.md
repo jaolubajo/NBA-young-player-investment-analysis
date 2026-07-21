@@ -42,10 +42,13 @@ These findings give front offices a data-backed way to prioritize which young pl
 
 ## 8. Tools Used
 
-SQLite / DB Browser
-SQL
-Github
+SQL (SQLite) 
+
+DB Browser for SQLITE
+
 PowerBI
+
+GitHub
 
 ## 9. File Structure
 
